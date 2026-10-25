@@ -219,4 +219,4 @@ Panda Free Antivirus is available as a complete free version with all features a
 Protect your PC today with Panda Free Antivirus! Download now and enjoy the peace of mind that comes with top-notch security.
 
 ---
-**Last updated:** 2026-10-25 05:43:11 UTC
+**Last updated:** 2026-10-25 10:47:49 UTC
